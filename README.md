@@ -237,9 +237,9 @@ Building Sir Talk-A-Lot wasn't without its challenges. Here's what we encountere
 | Member | Role | Contribution |
 |--------|------|-------------|
 | Neo | Bot Architect & Builder | Built the entire bot in AWS Lex, configured all slots, branching logic, and debugged all errors |
-| Member 2 | Content Researcher | Researched Amazon S3 facts and wrote quiz questions and answers |
+| Khomotso | Bot Script Writer & Content Researcher | Researched Amazon S3 info and compiled quiz questions and answers, Author of the Sir Talk-A-Lot sociolect, script and conversation flow |
 | Member 3 | PowerPoint Designer | Built the client presentation slides |
-| Member 4 | Script Writer | Wrote the Sir Talk-A-Lot script and conversation flow |
+| Member 4 | Co-Powerpoint Designer | Edited client presentation slides |
 | Member 5 | Presenter | Delivered the live demo and presentation to CloudLearners Inc. |
 
 ---
